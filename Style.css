@@ -1,0 +1,15 @@
+body{
+    background-color: 00FFF9;
+   font-family: 'Indie Flower', cursive;
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align-last: center;
+    border: solid blue;
+}
+
+Img{
+border: red dotted;
+height: 300px;
+width: 300px;
+}
