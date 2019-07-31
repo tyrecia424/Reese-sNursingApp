@@ -1,15 +1,25 @@
 body{
     background-color: 00FFF9;
-   font-family: 'Indie Flower', cursive;
+  font-family: 'Saira Stencil One', cursive;
     color: rgb(0, 0, 0);
 }
 h1{
     text-align-last: center;
-    border: solid blue;
+    border: solid red;
 }
 
 Img{
 border: red dotted;
 height: 300px;
 width: 300px;
+position: fixed;
+}
+
+h2{
+   border: red solid;
+   text-align: center;
+}
+
+table{
+border
 }

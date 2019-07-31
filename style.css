@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://10bsnq5-a.akamaihd.net/wp-content/uploads/2018/12/NH-Abuse.jpg);
+    background-size: 500px;
+    color: red;
+    font-family: 'Saira Stencil One', cursive;
+}
+
+h1{
+    border: solid black;
+    text-align: center;
+}
+
+h2{
+    border: black solid;
+    text-align: center;
+}
+
+h3{
+    border: solid black;
+    text-align: center;
+}
