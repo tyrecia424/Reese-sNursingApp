@@ -19,3 +19,7 @@ h3{
     border: solid black;
     text-align: center;
 }
+
+table{
+border-collapse: collapse;
+}

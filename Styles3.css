@@ -9,6 +9,14 @@ table{
 }
 
 h1{
-    border: black;
+    border: black solid;
     text-align: center;
 }
+
+.LPNS{
+    border:black solid;
+    text-align: center;
+}
+
+
+
